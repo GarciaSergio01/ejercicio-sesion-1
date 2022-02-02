@@ -1,0 +1,26 @@
+.contenedor{
+	
+	max-width: 800px;
+	margin: 0 auto;
+
+}
+
+
+h1,h2{
+	text-align: center;
+	font-family: sans-serif;
+}
+p{
+	font-family: arial;
+
+}
+.bgrojo{
+	padding: 5px 10px;
+	color: white;
+	background-color: #DB162F;
+}
+.bgazul{
+	padding: 5px 10px;
+	color: white;
+	background-color: #383961;
+}
